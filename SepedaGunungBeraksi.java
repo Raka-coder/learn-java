@@ -5,12 +5,13 @@ public class SepedaGunungBeraksi {
         // Membuat objek baru 'sg' dari kelas SepedaGunung
         SepedaGunung sg=new SepedaGunung();
         // Mengatur gir sepeda gunung menjadi 3
+        sg.setGir(2);
+        // Menampilkan nilai gir yang telah diatur
+        System.out.println(sg.getGir());
+        // Mengatur nilai pedal sepeda gunung
         sg.setGir(3);
         // Menampilkan nilai gir yang telah diatur
         System.out.println(sg.getGir());
         // Mengatur nilai pedal sepeda gunung
-        sg.setPedal(1);
-        // Menampilkan nilai pedal yang telah diatur
-        System.out.println(sg.getPedal());
     }
 }
