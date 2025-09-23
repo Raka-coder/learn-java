@@ -1,3 +1,10 @@
+/*
+ * Nama: Raka Restu Saputra
+ * NPM : 247006111172
+ * Kelas: F
+ * Praktikum PBO
+ */
+
 public class Kantin {
     int hargaMakanan;
     int totalPendapatan;
