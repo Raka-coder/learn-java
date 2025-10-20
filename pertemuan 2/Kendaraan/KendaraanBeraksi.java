@@ -6,3 +6,11 @@ class KendaraanBeraksi {
 		m.jalan();
 	}
 }
+
+class Mobil {
+	String merk;
+	int jumlahPintu;
+	void jalan() {
+		System.out.println(merk + " berjalan dengan " + jumlahPintu + " pintu.");
+	}
+}

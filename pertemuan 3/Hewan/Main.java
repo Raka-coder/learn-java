@@ -7,3 +7,24 @@ class Main {
         h2.suara();
     }
 }
+
+// Base abstract class representing an animal
+abstract class Hewan {
+    abstract void suara();
+}
+
+// Kucing (cat) implementation
+class Kucing extends Hewan {
+    @Override
+    void suara() {
+        System.out.println("Meong");
+    }
+}
+
+// Anjing (dog) implementation
+class Anjing extends Hewan {
+    @Override
+    void suara() {
+        System.out.println("Guk guk");
+    }
+}
