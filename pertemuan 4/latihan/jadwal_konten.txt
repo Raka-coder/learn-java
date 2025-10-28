@@ -1,0 +1,9 @@
+=== Data Personal ===
+Nama: Raka Restu Saputra
+NPM: 247006111172
+Jurusan: Informatika
+
+=== Jadwal Konten ===
+Tanggal Upload (YYYY-MM-DD): 2025-10-28
+Platform (Instagram/TikTok): Instagram
+Judul Konten: Tutorial Install Java SDK pada Windows
