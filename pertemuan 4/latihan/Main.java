@@ -3,6 +3,7 @@
  * Nama: Raka Restu Saputra
  * Kelas: F
  */
+package latihan;
 
 import java.io.FileWriter;
 import java.io.BufferedWriter;

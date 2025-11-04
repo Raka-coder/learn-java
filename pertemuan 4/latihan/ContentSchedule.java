@@ -3,6 +3,7 @@
  * Nama: Raka Restu Saputra
  * Kelas: F
  */
+package latihan;
 
 public class ContentSchedule {
     private String tanggal;
